@@ -173,6 +173,10 @@ strike you as either similar to or different from Python.
 > using the debugger in the same way. You might find it informative to try stepping through the
 > code to see what it is doing on a few iterations.
 
+- Java uses && instead of and
+- Java also has different syntax for for loops for (int i = 1; i <= 100; i++) {
+- Uses semi colons
+
 ## The Main Method
 
 In Python, any code that you write in a file will get run when you execute the file.
